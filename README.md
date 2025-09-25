@@ -26,4 +26,6 @@ Make sure you have the following installed:
 - pip (Python package installer)
 
 ### Installation
-1. Clone the repository:
+1. Clone the repository
+2. Extract the weather_data.csv from the archive
+3. link the data to the .ipynb
